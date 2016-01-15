@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<quiz>
+    <question>
+        <qId>1</qId>
+        <qText>What should you do when you see this sign?</qText>
+        <qImg>stop.png</qImg>
+        <option>Stop</option>
+        <option>Stop and proceed</option>
+        <option>Slow down and proceed</option>
+        <option>Race ahead</option>
+        <correctAnswer>1</correctAnswer>
+    </question>
+    <question>
+        <qId>2</qId>
+        <qText>What should you do when you see this sign?</qText>
+        <qImg>yield.png</qImg>
+        <option>Stop</option>
+        <option>Stop and proceed</option>
+        <option>Slow down and proceed</option>
+        <option>Race ahead</option>
+        <correctAnswer>3</correctAnswer>
+    </question>
+    <question>
+        <qId>3</qId>
+        <qText>When you enter a roundabout or a circular intersection, you must proceed:</qText>
+        <qImg/>
+        <option>in a clockwise direction</option>
+        <option>in the opposite direction</option>
+        <option>in a counter clockwise direction</option>
+        <option>towards the left</option>
+        <correctAnswer>3</correctAnswer>
+    </question>
+    <question>
+        <qId>4</qId>
+        <qText>If a tornado is nearby, you must:</qText>
+        <qImg/>
+        <option>drive your car with maximum speed to avoid it</option>
+        <option>take a detour to the top of the bridge</option>
+        <option>close all the doors and turn on your headlights</option>
+        <option>stop, exit your car immediately, go to a low-lying area</option>
+        <correctAnswer>4</correctAnswer>
+    </question>
+    <question>
+        <qId>5</qId>
+        <qText>With any turning vehicle, the rear wheels follow a _________ than the front wheels.</qText>
+        <qImg/>
+        <option>slower path</option>
+        <option>faster path</option>
+        <option>longer path</option>
+        <option>shorter path</option>
+        <correctAnswer>4</correctAnswer>
+    </question>
+    <question>
+        <qId>6</qId>
+        <qText>If you are driving near a school, you must slow down to _________ for the school zone.</qText>
+        <qImg/>
+        <option>10 mph below the established speed limit</option>
+        <option>the lowest speed limit</option>
+        <option>35 mph</option>
+        <option>45 mph</option>
+        <correctAnswer>2</correctAnswer>
+    </question>
+    <question>
+        <qId>7</qId>
+        <qText>Defensive drivers stay _________ behind the vehicle ahead while driving.</qText>
+        <qImg/>
+        <option>at least two to three seconds</option>
+        <option>at least five seconds</option>
+        <option>at least four seconds</option>
+        <option>at least nine to ten seconds</option>
+        <correctAnswer>1</correctAnswer>
+    </question>
+    <question>
+        <qId>8</qId>
+        <qText>If the speed limit is 50 mph or greater, you must give proper turn signal ________ before turning or changing lanes.</qText>
+        <qImg/>
+        <option>at least 100 feet</option>
+        <option>at least 50 feet</option>
+        <option>at least 200 feet</option>
+        <option>at least 300 feet</option>
+        <correctAnswer>4</correctAnswer>
+    </question>
+    <question>
+        <qId>9</qId>
+        <qText>A red and white triangular sign at an intersection means</qText>
+        <qImg/>
+        <option>Slow down if an emergency vehicle is approaching.</option>
+        <option>Look both ways as you cross the intersection.</option>
+        <option>Always come to a full stop at the intersection.</option>
+        <option>Slow down and be prepared to stop if necessary.</option>
+        <correctAnswer>4</correctAnswer>
+    </question>
+    <question>
+        <qId>10</qId>
+        <qText>What should you do if fog closes in completely while driving, and visibility is reduced to near zero?</qText>
+        <qImg/>
+        <option>Increase the speed and take a detour</option>
+        <option>Use low-beams</option>
+        <option>Use high-beams</option>
+        <option>Carefully pull as far off the road as possible, and stop</option>
+        <correctAnswer>4</correctAnswer>
+    </question>
+    <question>
+        <qId>11</qId>
+        <qText>In a situation with a flat tire or blow-out, you should first:</qText>
+        <qImg/>
+        <option>hold the steering wheel firmly</option>
+        <option>not apply brakes</option>
+        <option>not slow your car</option>
+        <option>not take your foot off the gas pedal</option>
+        <correctAnswer>1</correctAnswer>
+    </question>
+    <question>
+        <qId>12</qId>
+        <qText>The likelihood of an accident increases if a driver is under the influence of:</qText>
+        <qImg/>
+        <option>softly playing music</option>
+        <option>a cup of tea</option>
+        <option>alcohol, drugs or prescription medication</option>
+        <option>a cup of coffee</option>
+        <correctAnswer>3</correctAnswer>
+    </question>
+    <question>
+        <qId>13</qId>
+        <qText>The first rule of a safe and legal turn is:</qText>
+        <qImg/>
+        <option>to reduce the speed</option>
+        <option>to cut corners while turning</option>
+        <option>to move into the proper lane well before the turn</option>
+        <option>to increase the speed</option>
+        <correctAnswer>3</correctAnswer>
+    </question>
+    <question>
+        <qId>14</qId>
+        <qText>Indiana law requires the driver and all passengers to use seat belts at all times when a vehicle is:</qText>
+        <qImg/>
+        <option>in operation</option>
+        <option>moving at a speed greater than 50 mph</option>
+        <option>moving on highways</option>
+        <option>moving at a speed greater than 35 mph</option>
+        <correctAnswer>1</correctAnswer>
+    </question>
+    <question>
+        <qId>15</qId>
+        <qText>When visibility is diminished, drivers must use low-beams when:</qText>
+        <qImg/>
+        <option>within 200 feet of an oncoming vehicle</option>
+        <option>approaching a railroad crossing at night</option>
+        <option>within 500 feet of an oncoming vehicle</option>
+        <option>approaching an intersection or traffic island at night</option>
+        <correctAnswer>3</correctAnswer>
+    </question>
+    <question>
+        <qId>16</qId>
+        <qText>The maximum speed limit in a highway work zone must not exceed:</qText>
+        <qImg/>
+        <option>45 mph in any location</option>
+        <option>55 mph in any location</option>
+        <option>70 mph in any location</option>
+        <option>60 mph in any location</option>
+        <correctAnswer>1</correctAnswer>
+    </question>
+    <question>
+        <qId>17</qId>
+        <qText>When driving in urban residential areas, vehicles may not exceed:</qText>
+        <qImg/>
+        <option>60 mph, or the posted speed limit</option>
+        <option>45 mph, or the posted speed limit</option>
+        <option>50 mph</option>
+        <option>30 mph, or the posted speed limit</option>
+        <correctAnswer>4</correctAnswer>
+    </question>
+    <question>
+        <qId>18</qId>
+        <qText>A yield sign indicates that a driver must slow down when approaching an intersection and _________ if a vehicle or pedestrian with the right-of-way is approaching from another direction.</qText>
+        <qImg/>
+        <option>be prepared to make a turn</option>
+        <option>be prepared to come to a complete stop</option>
+        <option>be prepared to increase the speed</option>
+        <option>be prepared to make a U-turn</option>
+        <correctAnswer>2</correctAnswer>
+    </question>
+    <question>
+        <qId>19</qId>
+        <qText>Flashing arrow boards are often used to indicate:</qText>
+        <qImg/>
+        <option>a detour ahead</option>
+        <option>a stop sign ahead</option>
+        <option>no entry ahead</option>
+        <option>a yield sign ahead</option>
+        <correctAnswer>1</correctAnswer>
+    </question>
+    <question>
+        <qId>20</qId>
+        <qText>Which of the following statements is true when driving on highways?</qText>
+        <qImg/>
+        <option>Fast-moving vehicles must enter the highway through the deceleration lane</option>
+        <option>Slow-moving vehicles should use the left lane and fast-moving vehicles should use right lane</option>
+        <option>Slow-moving vehicles should use the right lane and fast-moving vehicles should use left lane</option>
+        <option>Fast-moving vehicles should overtake slower vehicles from right side</option>
+        <correctAnswer>3</correctAnswer>
+    </question>
+    <question>
+        <qId>21</qId>
+        <qText>When operating a vehicle with a steering wheel interlock system, never turn _________ while the vehicle is in motion.</qText>
+        <qImg/>
+        <option>the ignition to the lock position</option>
+        <option>the headlights into the on position</option>
+        <option>the engine into the off position</option>
+        <option>the gear into the higher position</option>
+        <correctAnswer>1</correctAnswer>
+    </question>
+    <question>
+        <qId>22</qId>
+        <qText>You must avoid _________ while crossing railroad tracks.</qText>
+        <qImg/>
+        <option>stopping or shifting gears</option>
+        <option>using high-beam lights</option>
+        <option>using brakes</option>
+        <option>using low-beam lights</option>
+        <correctAnswer>1</correctAnswer>
+    </question>
+    <question>
+        <qId>23</qId>
+        <qText>If you are involved in an accident, you must:</qText>
+        <qImg/>
+        <option>stop and provide information to others involved in the accident</option>
+        <option>leave the scene of an accident</option>
+        <option>stop other vehicles on the road</option>
+        <option>not provide information to others involved in the accident</option>
+        <correctAnswer>1</correctAnswer>
+    </question>
+    <question>
+        <qId>24</qId>
+        <qText>When you see a stationary emergency vehicle with flashing lights, you must:</qText>
+        <qImg/>
+        <option>continue with the same speed</option>
+        <option>increase the speed of your vehicle</option>
+        <option>move into the left lane</option>
+        <option>slow down and move into a lane that is not adjacent to the emergency vehicle</option>
+        <correctAnswer>4</correctAnswer>
+    </question>
+    <question>
+        <qId>25</qId>
+        <qText>If another vehicle is passing you on the left-hand side of the road, allow the other vehicle to pass safely, and:</qText>
+        <qImg/>
+        <option>do not increase your speed</option>
+        <option>pull your vehicle to the left lane of the road</option>
+        <option>pull your vehicle to the right edge of the road</option>
+        <option>increase your speed to follow the vehicle</option>
+        <correctAnswer>1</correctAnswer>
+    </question>
+    <question>
+        <qId>26</qId>
+        <qText>It is dangerous and illegal to try to pass other vehicles when _________ of an intersection, railroad crossing, bridge, viaduct or tunnel.</qText>
+        <qImg/>
+        <option>you are within 200 feet</option>
+        <option>you are within 500 feet</option>
+        <option>you are within 100 feet</option>
+        <option>you are within 600 feet</option>
+        <correctAnswer>3</correctAnswer>
+    </question>
+    <question>
+        <qId>27</qId>
+        <qText>If you are approaching an intersection with a non-operating signal, you should:</qText>
+        <qImg/>
+        <option>slow down at the intersection and proceed with caution</option>
+        <option>stop before entering the intersection</option>
+        <option>make a right turn at the intersection</option>
+        <option>stop after entering the intersection</option>
+        <correctAnswer>2</correctAnswer>
+    </question>
+    <question>
+        <qId>28</qId>
+        <qText>If your vehicle's conventional disc or drum brakes suddenly fail, you should immediately:</qText>
+        <qImg/>
+        <option>shift to a higher gear, if possible, and not pump the brake pedal</option>
+        <option>pull off the road and stop</option>
+        <option>shift to a higher gear, if possible, and pump the brake pedal fast and hard several times</option>
+        <option>shift to a low gear, if possible, and pump the brake pedal fast and hard several times</option>
+        <correctAnswer>4</correctAnswer>
+    </question>
+    <question>
+        <qId>29</qId>
+        <qText>A red flashing light at an intersection is equivalent to:</qText>
+        <qImg/>
+        <option>a flashing yellow light</option>
+        <option>a yield sign</option>
+        <option>a 'do not enter' sign</option>
+        <option>a stop sign</option>
+        <correctAnswer>4</correctAnswer>
+    </question>
+    <question>
+        <qId>30</qId>
+        <qText>When you enter an interstate on-ramp, you must stay to the right and _________ to allow your car to merge with traffic.</qText>
+        <qImg/>
+        <option>increase your speed in the acceleration lane</option>
+        <option>increase your speed in the deceleration lane</option>
+        <option>decrease your speed in the acceleration lane</option>
+        <option>decrease your speed in the deceleration lane</option>
+        <correctAnswer>1</correctAnswer>
+    </question>
+</quiz>
